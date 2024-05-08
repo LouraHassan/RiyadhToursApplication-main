@@ -1,0 +1,1 @@
+ C:\\src\\RiyadhToursApplication-main\\.dart_tool\\flutter_build\\079108bffb6bd718dff2cec02bc4b203\\native_assets.yaml: 

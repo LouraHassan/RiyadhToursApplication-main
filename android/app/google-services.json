@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829657639759",
+    "project_id": "riytouappproject",
+    "storage_bucket": "riytouappproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829657639759:android:355a431e78830084a6b33a",
+        "android_client_info": {
+          "package_name": "com.example.testapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaiZ67NDQumMrQ1oCgvfJM_I_B4RjB4No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
